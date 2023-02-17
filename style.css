@@ -1,0 +1,25 @@
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    box-shadow: 6px, 8px, 8px black;
+    background-color: pink;
+    line-height:3;
+    font-size: 20px;
+}
+
+img:hover{
+    border-radius:140px;
+}
+
+#camera{
+    width:350px;
+    height:300px;
+    border:1px dashed;
+}
+
+#result1,#result2,#result3{
+    margin:50px;
+    display:inline;
+}
